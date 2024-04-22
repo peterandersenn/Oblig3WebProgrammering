@@ -1,3 +1,5 @@
+
+$(function(){hentData()})
 function kjopBillet() {
     $("#antallF").html("");
     $("#fornavnF").html("");
